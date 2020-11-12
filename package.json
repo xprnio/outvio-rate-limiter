@@ -1,0 +1,14 @@
+{
+  "name": "outvio-rate-limiter",
+  "version": "1.0.0",
+  "description": "This is my implementation of the test assignment provided by Outvio.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Ragnar Laud",
+    "email": "ragnar.laud@hotmail.com"
+  },
+  "license": "UNLICENSED"
+}
